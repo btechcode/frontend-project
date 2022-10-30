@@ -1,0 +1,8 @@
+original gradiant color for homepage:
+.banner{
+    width: 100;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),#008688), url(images/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
