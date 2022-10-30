@@ -18,14 +18,14 @@ html {
 .bannera{
     width: 100;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.5),   #E4EfE9), url(images/backgroundassignment2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),  #2c3e50), url(images/backgroundassignment2.jpg);
     background-size: cover;
     background-position: center;
 }
 .bannercs{
     width: 100;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.5),  #E4EfE9), url(images/backgroundassignment.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),  #2c3e50), url(images/backgroundassignment.jpg);
     background-size: cover;
     background-position: center;
 }
